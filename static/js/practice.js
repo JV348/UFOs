@@ -38,3 +38,26 @@ function doubleAddition(c, d) {
   }
 // Converted to an arrow function 
 doubleAddition = (c, d) => addition(c, d) * 2;
+
+// *** Arrays 
+// EX. Array 
+let friends = ["Sarah", "Greg", "Cindy", "Jeff"];
+// For loop 
+function listLoop(userList) {
+    for (var i = 0; i < userList.length; i++) {
+      console.log(userList[i]);
+    }
+ }
+
+// For loop to iterate through an array of vegetables.
+// Ex. Array
+let vegetables = ["Carrots", "Peas", "Lettuce", "Tomatoes"];
+// For loop 
+for (var i = 0; i < vegetables.length; i++) {
+    console.log("I love " + vegetables[i]);
+}
+
+// Loop through numbers without using an array
+for (var i = 0; i < 5; i++) {
+    console.log("I am " + i);
+ }
