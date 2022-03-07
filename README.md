@@ -11,7 +11,7 @@ At the request of our associate, we removed the button that had been present in 
 ![UFOfin](https://github.com/JV348/UFOs/blob/5052e8222d128cc829bd120f51cede41c0855b8c/static/images/UFOfin.png)
  
 ## Summary
-As mentioned in the module, Javascript is case sensitive, and, generally speaking, sensitive to all errors. The developer must take care not to mess up any data and actively monitor for consistent syntax - as well as pay attention to proper code structure. On the user's end, one must be careful to have typed in the filter search as it was found in the dataset - therefore, the user must input "ar" and not "AR" as one would normally find in other websites. 
+As mentioned in the module, Javascript is case sensitive, and, generally speaking, sensitive to all errors. The developer must take care not to mess up any data and actively monitor for consistent syntax - as well as pay attention to proper code structure. On the user's end, one must be careful to have typed in the filter search value as it was found in the dataset - therefore, the user must input "ar" and not "AR" as one would normally find in other websites. 
 
 We were aware that the associate requested the removal of the previous button and so we executed that task. However, we feel that future users may wish to visually apply and execute filters on their own (particularly the elderly demographic). As such, there may still be a need for that button. We also believe there ought to be an effort to create a popdown list for each filter search row that contains all possible search parameters. This would make it much easier for those that are unfamiliar with the data table and the possible values that can be searched for. 
 
