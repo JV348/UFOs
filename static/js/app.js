@@ -1,3 +1,4 @@
+// SEE app_c.js FOR CHALLENGE
 // Import the data from data.js; declare variable 
 const tableData = data;
 
@@ -17,8 +18,7 @@ function buildTable(data) {
         Object.values(dataRow).forEach((val) => {
             let cell = row.append["td"]
             cell.text(val);
-            }
-        );
+        });
     });
 }
 
@@ -40,10 +40,10 @@ function handleClick() {
     // @NOTE: If no date was entered, then filteredData will
     // just be the original tableData.
     buildTable(filteredData);
-  }
+}
   
-  // Attach an event to listen for the form button
-  d3.selectAll("#filter-btn").on("click", handleClick);
+// Attach an event to listen for the form button
+d3.selectAll("#filter-btn").on("click", handleClick);
   
-  // Build the table when the page loads
-  buildTable(tableData);
+// Build the table when the page loads
+buildTable(tableData);
