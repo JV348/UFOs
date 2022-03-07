@@ -8,6 +8,8 @@ At first glance, the webpage gives the user a simple yet immersive introduction 
 
 At the request of our associate, we removed the button that had been present in the previous iteration of app.js, and incorporated more filters for any interested users. These filters included: city, state, country, and shape. 
 
+![UFOfin](https://github.com/JV348/UFOs/blob/5052e8222d128cc829bd120f51cede41c0855b8c/static/images/UFOfin.png)
+ 
 ## Summary
 As mentioned in the module, Javascript is case sensitive, and, generally speaking, sensitive to all errors. The developer must take care not to mess up any data and actively monitor for consistent syntax - as well as pay attention to proper code structure. On the user's end, one must be careful to have typed in the filter search as it was found in the dataset - therefore, the user must input "ar" and not "AR" as one would normally find in other websites. 
 
