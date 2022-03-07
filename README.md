@@ -1,7 +1,7 @@
 # Preparing UFO Information With HTML & JS
 
 ## Overview of Project
-The objective of this project was to establish a webpage that could display information regarding UFO's - in a manner that could be manipulated by incoming users. Our associate has tasked us with modifying the page further, so that multiple filters can be applied to the available data. 
+The objective of this project was to establish a webpage that could display information regarding UFOs - in a manner that could be manipulated by incoming users. Our associate has tasked us with modifying the page further, so that multiple filters can be applied to the available data. 
 
 ## Results
 At first glance, the webpage gives the user a simple yet immersive introduction to the ongoing mystery surrounding UFO sightings. Upon further inspection, one can utilize the webpage's features by scrolling to the left-side column containing the filters, along with their respective input rows. The user must type in the information that they are looking for - otherwise default parameters are returned.
