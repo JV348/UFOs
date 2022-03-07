@@ -1,4 +1,4 @@
-// SEE app_c.js FOR CHALLENGE
+// PLEASE SEE app_c.js FOR CHALLENGE
 // Import the data from data.js; declare variable 
 const tableData = data;
 
